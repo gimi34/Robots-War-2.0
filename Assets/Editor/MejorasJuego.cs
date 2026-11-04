@@ -11,7 +11,7 @@ using TMPro;
 ///  - dificultad mas baja (menos cadencia y menos vida en robots y jefe, bala enemiga mas lenta)
 ///  - mini tutorial con los controles (tecla H para volver a verlo)
 ///  - texto permanente con el nivel actual + cartel grande al empezar
-///  - camioneta del final (Ranger Open) y su animacion de salida
+///  - camioneta del final (Jeep) y su animacion de salida
 /// Menu: Aura -> 4.
 /// </summary>
 public static class MejorasJuego
@@ -19,7 +19,7 @@ public static class MejorasJuego
     public const float TAMANO_CAMARA = 5.625f;
     public const float ALTO_SUELO = -4f;
 
-    const string R_CAMIONETA = "Assets/VOiD1 Gaming - Pixel Cars/Pixel Cars/Ranger Open.png";
+    const string R_CAMIONETA = "Assets/VOiD1 Gaming - Pixel Cars/Pixel Cars/Jeep.png";
     const string R_FUENTE = "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset";
     const string R_BALA_ENEMIGA = "Assets/Prefabs/BalaEnemiga.prefab";
 
