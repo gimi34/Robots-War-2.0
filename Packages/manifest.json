@@ -59,6 +59,6 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0",
-    "com.ramenvr.autopilot": "file:com.ramenvr.autopilot-1.0.1.tgz"
+    "com.ramenvr.autopilot": "https://github.com/ramenvr/autopilot.git?path=/plugin/unity/com.ramenvr.autopilot#286ee8a758e89dd77921b8f55ba409306410c5c5"
   }
 }
